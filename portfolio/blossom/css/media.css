@@ -1,0 +1,212 @@
+@media only screen and (max-width : 1785px) {
+	#back-top {
+		right: 200px;
+	}
+	.block-map {
+		width: 1785px;
+	}
+	.block-map iframe {
+		width: 1785px;
+	}
+}
+
+@media only screen and (max-width : 1685px) {
+	#back-top {
+		right: 160px;
+	}
+	.block-map {
+		width: 1685px;
+	}
+	.block-map iframe {
+		width: 1685px;
+	}
+}
+
+
+@media only screen and (max-width : 1605px) {
+	#back-top {
+		right: 120px;
+	}
+	.block-map {
+		width: 1605px;
+	}
+	.block-map iframe {
+		width: 1605px;
+	}
+}
+
+@media only screen and (max-width : 1525px) {
+	#back-top {
+		right: 90px;
+	}
+	.block-map {
+		width: 1525px;
+	}
+	.block-map iframe {
+		width: 1525px;
+	}
+}
+
+@media only screen and (max-width : 1465px) {
+	#back-top {
+		right: 60px;
+	}
+	.block-map {
+		width: 1465px;
+	}
+	.block-map iframe {
+		width: 1465px;
+	}
+}
+
+@media only screen and (max-width : 1440px) {
+	.block-map {
+		width: 1440px;
+	}
+	.block-map iframe {
+		width: 1440px;
+	}
+}
+
+@media only screen and (max-width : 1405px) {
+	#back-top {
+		right: 40px;
+	}
+	.block-map {
+		width: 1405px;
+	}
+	.block-map iframe {
+		width: 1405px;
+	}
+}
+
+@media only screen and (max-width : 1365px) {
+	#back-top {
+		right: 20px;
+	}
+	.block-map {
+		width: 1365px;
+	}
+	.block-map iframe {
+		width: 1365px;
+	}
+}
+
+@media only screen and (max-width : 1325px) {
+	#back-top {
+		right: 10px;
+		z-index: 999999;
+	}
+	.block-map {
+		width: 1325px;
+	}
+	.block-map iframe {
+		width: 1325px;
+	}
+}
+/*
+@media only screen and (max-width : 1300px) {
+	#back-top {
+		right: 5px;
+	}
+	.block-map {
+		width: 1300px;
+	}
+	.block-map iframe {
+		width: 1300px;
+	}
+}
+
+@media only screen and (max-width : 1290px) {
+	#back-top {
+		display: none !important;
+	}
+	.block-map {
+		width: 1290px;
+	}
+	.block-map iframe {
+		width: 1290px;
+	}
+}
+
+@media only screen and (max-width : 1280px) {
+	.block-map {
+		width: 1280px;
+	}
+	.block-map iframe {
+		width: 1280px;
+	}
+}
+
+@media only screen and (max-width : 1024px) {
+	.block-map {
+		width: 1024px;
+	}
+	.block-map iframe {
+		width: 1024px;
+	}
+}
+
+@media only screen and (max-width : 992px) {
+	.block-map {
+		width: 992px;
+	}
+	.block-map iframe {
+		width: 992px;
+	}
+}
+
+@media only screen and (max-width : 768px) {
+	.block-map {
+		width: 768px;
+	}
+	.block-map iframe {
+		width: 768px;
+	}
+}
+
+@media only screen and (max-width : 680px) {
+	.block-map {
+		width: 680px;
+	}
+	.block-map iframe {
+		width: 680px;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	.block-map {
+		width: 480px;
+	}
+	.block-map iframe {
+		width: 480px;
+	}
+}
+
+@media only screen and (max-width : 414px) {
+	.block-map {
+		width: 414px;
+	}
+	.block-map iframe {
+		width: 414px;
+	}
+}
+
+@media only screen and (max-width : 380px) {
+	.block-map {
+		width: 380px;
+	}
+	.block-map iframe {
+		width: 380px;
+	}
+}
+
+@media only screen and (max-width : 320px) {
+	.block-map {
+		width: 320px;
+	}
+	.block-map iframe {
+		width: 320px;
+	}
+}
+*/

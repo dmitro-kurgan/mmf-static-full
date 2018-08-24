@@ -1,0 +1,170 @@
+body {
+	padding: 0px !important;
+}
+/*----------------MODALS---------------*/
+#order-popup .modal-body .input-wrapper {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 35px;
+    display: block;
+}
+#order-popup .comment-modal {
+	max-width: 500px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+#order-popup .modal-body button {
+	width: 100%;
+}
+.comment-modal {
+	max-width: 600px;
+}
+.modal-dialog .modal-content h2 {
+	font: 42px Circe-Bold, Arial, sans-serif;
+	color: #686868;
+	line-height: 36px;
+}
+.modal-dialog .modal-content p {
+	font-size: 18px;
+    font-family: Circe-Regular, Arial, snas-serif;
+    color: rgba(0, 0, 0, 0.70);
+    margin: 15px 0;
+}
+.comment-modal .modal-content .modal-header .add-avatar {
+	width: 129px;
+	height: 129px;
+	position: relative;
+	border-radius: 50%;
+	background: #686868;
+	background: url(../images/add-avatar.jpg)no-repeat;
+}
+.modal-dialog .modal-content {
+	padding: 30px 45px;
+}
+.input-wrapper, .textarea {
+    position: relative;
+}
+.textarea {
+    margin: 0 auto;
+    margin-top: 36px;
+    width: 80%;
+}
+.textarea textarea {
+	padding: 6px 12px;
+	width: 100%;
+	font: 16px Circe-Bold, Arial, sans-serif;
+	color: #686868;
+	border-radius: 8px;
+	outline: none;
+	box-shadow: inset 0px 1px 6px 0px rgba(0, 0, 0, 0.71);
+}
+.modal-header {
+	padding: 0;
+	border: none;
+	text-align: center;
+}
+.modal-header .add-avatar {
+	outline: none;
+}
+.modal-body {
+	padding: 0;
+	text-align: center;
+}
+.modal-body .input-wrapper {
+    margin: 0 auto;
+    margin-top: 34px;
+    width: 80%;
+}
+.modal-body .input-wrapper input {
+	font: 16px Circe-Bold, Arial, sans-serif;
+	color: #686868;
+	height: 40px;
+	border-radius: 8px;
+	outline: none;
+	box-shadow: inset 0px 1px 6px 0px rgba(0, 0, 0, 0.71);
+}
+label {
+    z-index: 100;
+    position: absolute;
+    left: 15px;
+    top: -20px;
+    cursor: text;
+    font: 14px Corbel-Regular, Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.67);
+}
+.modal-body button {
+	width: 339px;
+	height: 60px;
+	background: #2f80ed;
+	border-radius: 8px;
+	text-transform: uppercase;
+	font: 24px Corbel-Bold, Arial, sans-serif;
+	color: #fff;
+	letter-spacing: 1.5px;
+	margin-top: 30px;
+	border: none;
+	outline: none;
+	transition: 0.3s all;
+}
+.modal-body button:hover {
+	background: #6FA0E3;
+}
+.modal-body button:focus {
+	background: #1C55A1;
+    box-shadow: inset 0px 4px 15px 0px #000;
+}
+/*-----------------ORDER-POPUP--------------------*/
+#order-popup .modal-body .textarea {
+	width: 100%;
+}
+/*----------------RESPONSIVE----------------------*/
+@media screen and (max-width: 767px) {
+	.modal-body .input-wrapper {
+		width: 100%;
+	}
+	.modal-dialog .modal-content {
+		padding: 30px 15px;
+	}
+	.modal-dialog .modal-content h2 {
+		font: 32px Circe-Bold, Arial, sans-serif;
+		line-height: 30px;
+	}
+	.modal-body button {
+		width: 260px;
+	}
+	.textarea {
+	    width: 100%;
+	}
+}
+/*-------------------------FANCY-POPUP-------------------------------*/
+#order-thanks-popup .modal-body {
+	font: 20px Circe-Regular, Arial, sans-serif;
+	margin: 35px 0 0 0;
+}
+.loader {
+	padding: 12px;
+}
+
+.country-name {
+	font-family: Circe-Bold, Arial, sans-serif;
+}
+
+.dial-code {
+	font-family: Circe, Arial, sans-serif;
+}
+
+.input-valid {
+	height: 100%;
+	z-index: 100567657;
+	background: url('/images/valid_input.png') no-repeat;
+	background-size: 18px 23px;
+	background-position: right 7px center;
+}
+
+.input-invalid {
+	height: 100%;
+	z-index: 100567657;
+	background: url('/images/invalid_input.png') no-repeat;
+	background-size: 18px 18px;
+	background-position: right 7px center;
+}
